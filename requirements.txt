@@ -12,4 +12,3 @@ defillama
 statsmodels
 pandas_ta
 sqlalchemy
-hummingbot
